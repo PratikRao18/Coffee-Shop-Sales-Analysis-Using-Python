@@ -3,7 +3,6 @@
 
 This project is focused on analyzing coffee shop sales data to uncover key business insights and trends. By leveraging Python's data analysis and visualization libraries, this project aims to help the coffee shop optimize its sales strategy, improve customer experience, and boost revenue.
 
-"C:\Users\pratik rao\OneDrive\Desktop\Coffee Sales Project in Python.pdf" 
 
 **🗂 Dataset Description**
 
