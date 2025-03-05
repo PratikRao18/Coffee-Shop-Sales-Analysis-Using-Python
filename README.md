@@ -1,4 +1,4 @@
-**##☕ Coffee Shop Sales Analysis**
+**☕ Coffee Shop Sales Analysis**
 **📋 Project Overview**
 
 This project is focused on analyzing coffee shop sales data to uncover key business insights and trends. By leveraging Python's data analysis and visualization libraries, this project aims to help the coffee shop optimize its sales strategy, improve customer experience, and boost revenue.
@@ -22,17 +22,20 @@ Jupyter Notebook / Google Colab: For executing code and documenting the analysis
 1. 📌 Data Cleaning and Preparation
 Removed duplicates and handled missing values.
 Converted data types for accurate analysis.
+
 2. 🔍 Exploratory Data Analysis (EDA)
 Sales Trends: Analyzed daily, weekly, and monthly sales patterns.
 Product Performance: Identified best-selling and least popular products.
 Time-based Analysis: Found peak sales hours and high-demand periods.
 Correlation Analysis: Explored relationships between variables like time of purchase and product popularity.
+
 3. 📈 Visualization Insights
 Bar Charts: For product-wise sales comparison.
 Line Graphs: To visualize sales trends over time.
 Heatmaps: Showcased peak sales hours and days.
 Pie Charts: Illustrated product category contribution to total sales.
-4. 💡 Business Insights and Recommendations
+
+5. 💡 Business Insights and Recommendations
 Peak Hours: Focus marketing during high-traffic times.
 Product Bundling: Suggested bundling popular items to boost average purchase value.
 Promotions: Recommended targeted discounts on slow-moving products.
